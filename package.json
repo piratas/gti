@@ -1,0 +1,42 @@
+{
+  "name": "gti",
+  "version": "0.0.0",
+  "description": "Regimento Interno do GTI",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piratas/gti.git"
+  },
+  "keywords": [
+    "gti",
+    "regimento",
+    "blog"
+  ],
+  "author": "gti@partipirata.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piratas/gti/issues"
+  },
+  "homepage": "https://github.com/piratas/gti#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-buffer": "0.0.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.0",
+    "gulp-file-include": "^0.13.7",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-import-css": "^0.1.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-markdown": "^1.2.0",
+    "gulp-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.1",
+    "livereload": "^0.4.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
