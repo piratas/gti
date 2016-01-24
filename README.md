@@ -7,6 +7,8 @@ O repositório GIT é utilizado para os seguintes fins.
 * Desenvolvimento contínuo do regimento interno.
 * Definição do articulador.
 
+Você esta procurando por: http://piratas.github.com/gti
+
 ## Canal de Notícias do GTI
 
 Qualquer um pode participar do canal de notícias do GTI, basta para isso enviar um PULL REQUEST para este repositório com a notícia em markdown com uma formatação adequada. A notícia deve estar em:
