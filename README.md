@@ -11,9 +11,9 @@ O repositório GIT é utilizado para os seguintes fins.
 
 Qualquer um pode participar do canal de notícias do GTI, basta para isso enviar um PULL REQUEST para este repositório com a notícia em markdown com uma formatação adequada. A notícia deve estar em:
 
-content/
-├── **news**
-└── statute
+content/    
+├── **news**    
+└── statute    
 
 O GTC busca muitas vezes pautas por aqui, se o assunto for técnico, deve começar por aqui.
 
@@ -28,9 +28,9 @@ Lembramos que esse é o regimento interno do Grupo de Operações de Tecnologia 
 
 Para propor uma alteração do regimento deve ser encaminhado um PULL request com um arquivo MARKDOWN a ser inserido em:
 
-content/
-├── news
-└── **statute**
+content/    
+├── news    
+└── **statute**    
 
 ## Eleição do Articulador
 
