@@ -1,3 +1,43 @@
-@import url("../../bower_components/reset-scss/reset.scss");
-@import url("../../bower_components/font-awesome/scss/font-awesome.scss");
-@import url("../../bower_components/WebFont-OpenSans/css/stylesheet.css");
+@import "../../bower_components/reset-scss/reset.scss";
+@import "../../bower_components/font-awesome/scss/font-awesome.scss";
+@import "../../bower_components/WebFont-OpenSans/css/stylesheet.css";
+@import "./_mixins.scss";
+
+body {
+    font-family: "OpenSansRegular";
+    font-size: 18px;
+    line-height: 23px;
+    color: #fff;
+    background: #000;
+}
+
+a {
+    @include unstyled-link;
+    color: yellow;
+    text-decoration: underline;
+}
+
+p {
+    margin: 10px auto;
+}
+
+h1, h2, h3 {
+    font-family: "OpenSansBold";
+    font-size: 38px;
+    line-height: 42px;
+    margin: 10px 0;
+}
+
+h2 {
+    font-size: 32px;
+    line-height: 38px;
+}
+
+h3 {
+    font-size: 32px;
+    line-height: 38px;
+}
+
+header, section, footer {
+    padding: 30px;
+}
