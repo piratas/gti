@@ -59,7 +59,7 @@ gulp.task("copy-fonts", function () {
 gulp.task("build-main", ["build-news", "build-statute"], function () {
     return gulp.src("src/**/*.html")
             .pipe(fileInclude())
-            .pipe(htmlmin())
+            .pipe(htmlmin({collapseWhitespace: true}))
             .pipe(gulp.dest("web"))
             .pipe(livereload());
 });
