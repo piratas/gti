@@ -1,5 +1,6 @@
 var GTI = require("./internals/controller.js");
+var domReady = require("domready");
 
-require("dom-ready")(function () {
+domReady(function () {
     window.gti = new GTI().run();
 }); 

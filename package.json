@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Regimento Interno do GTI",
   "main": "gulpfile.js",
-  "scripts" : {
+  "scripts": {
     "build": "gulp build --production",
     "clean": "git clean -dfx",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/piratas/gti#readme",
   "devDependencies": {
     "browserify": "^13.0.0",
-    "dom-ready": "^1.0.6",
+    "domready": "^1.0.8",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-buffer": "0.0.2",
