@@ -17,6 +17,22 @@ a {
     text-decoration: underline;
 }
 
+.container {
+    max-width: 660px;
+    margin: auto;
+    text-align: justify;
+    
+    img {
+        max-width: 100%;
+    }
+    
+    .news {
+        section {
+            font-size: 16px;
+        }
+    }
+}
+
 p {
     margin: 10px auto;
 }
@@ -25,7 +41,15 @@ h1, h2, h3 {
     font-family: "OpenSansBold";
     font-size: 38px;
     line-height: 42px;
-    margin: 10px 0;
+    margin: 21px 0;
+}
+
+bold, b, strong {
+    font-family: "OpenSansBold";
+}
+
+i, em {
+    font-style: italic;
 }
 
 h2 {
