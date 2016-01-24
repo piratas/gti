@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "Regimento Interno do GTI",
   "main": "gulpfile.js",
-  "scripts": {
+  "scripts" : {
+    "build": "gulp build --production",
+    "clean": "git clean -dfx",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -41,6 +41,14 @@ var sectionize = function () {
     return transformStream;
 };
 
+gulp.task("copy-robots", function () {
+    return gulp.src([
+        "robots.txt",
+        "CNAME"
+    ])
+        .pipe(gulp.dest("web"))
+})
+
 gulp.task("build-main", ["build-news", "build-statute"], function () {
     return gulp.src("src/**/*.html")
         .pipe(fileInclude())
@@ -106,7 +114,7 @@ gulp.task("watch", function () {
     gulp.watch("src/images/**/*.{gif,jpg,png}", ["build-images"]);
 });
 
-gulp.task("default", ["build-main", "build-news", "build-images", "build-js", "build-scss", "watch"], function () {
+gulp.task("default", ["build", "watch"], function () {
     gulp.src('web')
         .pipe(webserver({
             livereload: false,
@@ -114,7 +122,8 @@ gulp.task("default", ["build-main", "build-news", "build-images", "build-js", "b
             open: true
         }));
 });
-gulp.task("build", ["build-main", "build-news", "build-images", "build-js", "build-scss"]);
+
+gulp.task("build", ["copy-robots", "build-main", "build-news", "build-images", "build-js", "build-scss"]);
 
 gulp.task("deploy", ["build"], function () {
     return gulp.stc("web")
