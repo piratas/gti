@@ -29,7 +29,7 @@ var sectionize = function () {
             cb(null, file);
         }
         if (file.isBuffer()) {
-            file.contents = new Buffer(sprintf("<section class='%s'>%s</section>", path.basename(file.path, ".html"), file.contents.toString(enc)));
+            file.contents = new Buffer(sprintf("<section id='%s'>%s</section>", path.basename(file.path, ".html"), file.contents.toString(enc)));
             cb(null, file);
             return;
         }
