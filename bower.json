@@ -19,6 +19,7 @@
   "devDependencies": {
     "font-awesome": "~4.5.0",
     "reset-scss": "*",
-    "WebFont-OpenSans": "webfont-opensans#~0.0.2"
+    "WebFont-OpenSans": "webfont-opensans#~0.0.2",
+    "jquery": "~2.2.0"
   }
 }

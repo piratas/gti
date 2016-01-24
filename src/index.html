@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel="stylesheet" href="css/main.css" />
+        <script src="js/index.js" async></script>
+        <link rel="stylesheet" href="css/style.css" />
         <title>GTI Pirata - Tecnologia das Informações Piratas</title>
     </head>
     <body>
@@ -15,13 +16,8 @@
             <h1 class="logo">Partido Pirata</h1>
         </header>
         
-        <div class="estatuto">
-        @@content("../")
-        </div>
-
-        <div class="news">
-            
-        </div>
+        <div class="statute">@@include("../build/statute/index.html")</div>
+        <div class="news">@@include("../build/news/index.html")</div>
 
         <footer>
             <ul>
