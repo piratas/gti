@@ -26,7 +26,7 @@ O regimento interno é um documento que segue a proposta @desci
 1. As regras deverão ser criadas e apagadas conforme necessidade, cabendo a comunidade desenvolvê-las.
 2. Atente-se a primeira regra.
 
-Lembramos que esse é o regimento interno do Grupo de Operações de Tecnologia da Informação, GTI. Deve serem observadas sempre as 18 leis piratas.
+Lembramos que esse é o regimento interno do Grupo de Operações de Tecnologia da Informação, GTI. As 18 leis piratas sempre devem ser observadas (http://partidopirata.org/documentos/as-18-leis-piratas/).
 
 Para propor uma alteração do regimento deve ser encaminhado um PULL request com um arquivo MARKDOWN a ser inserido em:
 
