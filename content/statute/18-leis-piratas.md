@@ -5,21 +5,21 @@ De acordo com seu novo estatuto, aprovado na 1ª Assembleia Nacional Pirata, o p
 
 Art. 3º São cláusulas pétreas do Piratas:
 
-I. a defesa dos direitos humanos e das liberdades civis;
-II. a defesa do direito à privacidade;
-III. a defesa ao acesso livre à informação; 
-IV. a defesa do acesso e compartilhamento livres de cultura e conhecimento; 
-V. a transparência pública; 
-VI. a democracia plena; 
-VII. o Estado Laico; 
-VIII. a liberdade de expressão; 
-IX. a colaboratividade; 
-X. a igualdade de gênero, em todas as suas expressões; 
-XI. o combate a todas as formas de discriminação; 
-XII. o combate a todas as formas de autoritarismo; 
-XIII. a defesa do direito inalienável de resistir à opressão; 
-XIV. o internacionalismo; 
-XV. a defesa do ativismo hacker; 
-XVI. o gozo pleno dos direitos inerentes à cidadania, inclusive políticos, ativos e passivos, independente da nacionalidade; 
-XVII. a plena autodeterminação individual; 
-XVIII. a neutralidade da rede. 
+i. a defesa dos direitos humanos e das liberdades civis;    
+ii. a defesa do direito à privacidade;      
+III. a defesa ao acesso livre à informação;     
+IV. a defesa do acesso e compartilhamento livres de cultura e conhecimento;     
+V. a transparência pública;     
+VI. a democracia plena;     
+VII. o Estado Laico;     
+VIII. a liberdade de expressão;     
+IX. a colaboratividade;     
+X. a igualdade de gênero, em todas as suas expressões;     
+XI. o combate a todas as formas de discriminação;     
+XII. o combate a todas as formas de autoritarismo;     
+XIII. a defesa do direito inalienável de resistir à opressão;     
+XIV. o internacionalismo;     
+XV. a defesa do ativismo hacker;     
+XVI. o gozo pleno dos direitos inerentes à cidadania, inclusive políticos, ativos e passivos, independente da nacionalidade;     
+XVII. a plena autodeterminação individual;     
+XVIII. a neutralidade da rede.     

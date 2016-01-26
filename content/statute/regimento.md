@@ -87,7 +87,7 @@ Caso o membro em julgamento seja o(a) Articulador(a), ele deverá ser julgado po
 
 Se cabível, a punição poderá variar entre:
 
-I - Advertência;
-II - Suspensão dos privilégios de acesso;
-III - Remoção dos privilégios de acesso; e
+I - Advertência;  	
+II - Suspensão dos privilégios de acesso;  	
+III - Remoção dos privilégios de acesso; e  	
 IV - Expulsão do GTI.

@@ -37,4 +37,3 @@ content/
 ## Eleição do Articulador
 
 O articulador deve ser eleito através de um _PULL REQUEST_ modificando o arquivo _ARTICULADOR.txt_. Use sua criatividade com ASCII ARTS e aproveita para escrever o que pretende realizar como coordenador e como pretende nos representar no partido.
-
