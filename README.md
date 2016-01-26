@@ -21,7 +21,7 @@ O GTC busca muitas vezes pautas por aqui, se o assunto for técnico, deve começ
 
 ## Desenvolvimento do Regimento Interno
 
-O regimento interno é um documento que segue a proposta @desci
+O regimento interno pretende ser um documento refletindo as seguintes premissas:
 
 1. As regras deverão ser criadas e apagadas conforme necessidade, cabendo a comunidade desenvolvê-las.
 2. Atente-se a primeira regra.
