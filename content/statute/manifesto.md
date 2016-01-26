@@ -1,6 +1,6 @@
 ## O Manifesto GTI
 
-Piratas do Brasil, \#hackers, este é um manifesto que visa convocá-los, pegue seu passaporte, precisamos nos unir porque temos muitas coisas para mudar.
+Piratas do Brasil, \#hackers, este é um manifesto que visa convocá-las e convocá-los, peguem seu passaportes, precisamos nos unir porque temos muitas coisas para mudar.
 
 Hoje mais um da nossa geração está preso. Provavelmente um dia ou outro te busquem. Sei que o que fazemos não é por irresponsabilidade, ser pego, mas pela responsabilidade que o futuro delega a nós.
 
