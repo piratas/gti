@@ -7,7 +7,7 @@ O repositório GIT é utilizado para os seguintes fins.
 * Desenvolvimento contínuo do regimento interno.
 * Definição do articulador.
 
-Você esta procurando por: http://piratas.github.com/gti
+Você está procurando por: http://piratas.github.com/gti
 
 ## Canal de Notícias do GTI
 
@@ -26,7 +26,7 @@ O regimento interno pretende ser um documento refletindo as seguintes premissas:
 1. As regras deverão ser criadas e apagadas conforme necessidade, cabendo a comunidade desenvolvê-las.
 2. Atente-se a primeira regra.
 
-Lembramos que esse é o regimento interno do Grupo de Operações de Tecnologia da Informação, GTI. As 18 leis piratas sempre devem ser observadas (http://partidopirata.org/documentos/as-18-leis-piratas/).
+Lembramos que esse é o regimento interno do Grupo de Trabalho de Tecnologia da Informação, GTI. As 18 leis piratas sempre devem ser observadas (http://partidopirata.org/documentos/as-18-leis-piratas/).
 
 Para propor uma alteração do regimento deve ser encaminhado um PULL request com um arquivo MARKDOWN a ser inserido em:
 
@@ -37,3 +37,4 @@ content/
 ## Eleição do Articulador
 
 O articulador deve ser eleito através de um _PULL REQUEST_ modificando o arquivo _ARTICULADOR.txt_. Use sua criatividade com ASCII ARTS e aproveita para escrever o que pretende realizar como coordenador e como pretende nos representar no partido.
+
