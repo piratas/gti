@@ -7,7 +7,7 @@ O repositório GIT é utilizado para os seguintes fins.
 * Desenvolvimento contínuo do regimento interno.
 * Definição do articulador.
 
-Você está procurando por: http://piratas.github.com/gti
+Você está procurando por: http://gti.piratas.xyz/github/
 
 ## Canal de Notícias do GTI
 
