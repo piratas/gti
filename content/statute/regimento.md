@@ -63,7 +63,10 @@ Capítulo IV - Dos critérios de admissão de novos colaboradores
 
 ### Artigo 7º:
 
-Interesse em git, linux e administração de sistemas computacionais são requisitos necessários para ingresso no GTI como colaborador(a) e/ou articulador(a).
+Os seguintes requisitos são condições necessárias para ingresso no GTI como membro efetivo:
+
+I - Associação ou filiação ao Partido Pirata (PIRATAS).
+II - Interesse em git, linux e administração de sistemas computacionais.
 
 #### §1º:
 
@@ -88,6 +91,9 @@ Capítulo V - Das Sanções Disciplinares
 
 A não participação em reuniões e em canais de comunicações estabelecidos pelo grupo serão considerados afastamento espontâneo do GTI.
 
+#### Parágrafo único:
+
+Nenhum membro efetivo do GTI deve ser obrigado a participar de canais de comunicação caso não aceite seus termos de uso, política de privacidade, ou conduta.
 
 ### Artigo 9º:
 
