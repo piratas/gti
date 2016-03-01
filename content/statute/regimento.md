@@ -12,16 +12,16 @@ O Grupo Nacional de Tecnologia da Informação do Partido Pirata (doravante cham
 
 São documentos oficiais do GTI e deverão ser fixados em seção específica no site oficial do PIRATAS:
 
-I - Regimento Interno;
+I - Regimento Interno;  
 
 ### Artigo 3º:
 
 O GTI tem como atribuições:
 
-I. Desenvolver novas soluções em TI (Tecnologia da informação) que sejam condizentes aos objetivos do partido;
-II. Administração e manutenção dos sistemas computacionais do PIRATAS, assim como os recursos necessários para sua divulgação e presença na rede mundial de computadores - a internet;
-III. Orientação do partido no que tange assuntos relacionados à tecnologia da informação;
-IV. Fornecer suporte, apoio e auxílio aos demais Grupos de Trabalho, Tesourarias, Secretarias, Coordenações e demais grupos que venham a ser criados pelo PIRATAS;
+I. Desenvolver novas soluções em TI (Tecnologia da informação) que sejam condizentes aos objetivos do partido;  
+II. Administração e manutenção dos sistemas computacionais do PIRATAS, assim como os recursos necessários para sua divulgação e presença na rede mundial de computadores - a internet;  
+III. Orientação do partido no que tange assuntos relacionados à tecnologia da informação;  
+IV. Fornecer suporte, apoio e auxílio aos demais Grupos de Trabalho, Tesourarias, Secretarias, Coordenações e demais grupos que venham a ser criados pelo PIRATAS;  
 
 Capítulo II - Da constituição do GTI
 --
@@ -65,24 +65,24 @@ Capítulo IV - Dos critérios de admissão de novos colaboradores
 
 Os seguintes requisitos são condições necessárias para ingresso no GTI como membro efetivo:
 
-I - Associação ou filiação ao Partido Pirata (PIRATAS).
-II - Interesse em git, linux e administração de sistemas computacionais.
+I - Associação ou filiação ao Partido Pirata (PIRATAS);  
+II - Interesse em git, linux e administração de sistemas computacionais.  
 
 #### §1º:
 
 A admissão de um membro efetivo dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
 
-I - Deliberação em reunião ordinária;
-II - Demonstração de competência técnica para desempenhar as funções necessárias;
+I - Deliberação em reunião ordinária;  
+II - Demonstração de competência técnica para desempenhar as funções necessárias.  
 
 #### §2º:
 
 A admissão de um(a) articulador(a) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
 
-I - Definição de método de votação e um prazo para contestação em reunião ordinária;
-II - Demonstração de competência técnica para desempenhar as funções necessárias;
-III - Votação pelo método definido no item I entre os membros efetivos do GTI com quorum mínimo de cinquenta por cento do total de membros efetivos, sendo a quantidade mínima de três membros efetivos;
-IV - Publicidade do resultado em meio oficial do PIRATAS e abertura para contestação do nome indicado por todos(as) associados(as) do PIRATAS pelo prazo definido através método descrito no item I;
+I - Definição de método de votação e um prazo para contestação em reunião ordinária;  
+II - Demonstração de competência técnica para desempenhar as funções necessárias;  
+III - Votação pelo método definido no item I entre os membros efetivos do GTI com quorum mínimo de cinquenta por cento do total de membros efetivos, sendo a quantidade mínima de três membros efetivos;  
+IV - Publicidade do resultado em meio oficial do PIRATAS e abertura para contestação do nome indicado por todos(as) associados(as) do PIRATAS pelo prazo definido através método descrito no item I.  
 
 Capítulo V - Das Sanções Disciplinares
 --
@@ -99,8 +99,8 @@ Nenhum membro efetivo do GTI deve ser obrigado a participar de canais de comunic
 
 No caso de um membro efetivo efetuar ação contrária às cláusulas pétreas ou documentos oficiais do partido, indicados no Art. 5º do estatuto, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
 
-I - Articulador(a) eleito(a) do GTI; e
-II - Todos os outros membros efetivos.
+I - Articulador(a) eleito(a) do GTI; e  
+II - Todos os outros membros efetivos.  
 
 #### §1º:
 
@@ -114,7 +114,7 @@ Casos omissos serão encaminhados para a Gestão de Crises do PIRATAS ou órgão
 
 Se cabível, a punição poderá variar entre:
 
-I - Advertência;  	
-II - Suspensão dos privilégios de acesso;  	
-III - Remoção dos privilégios de acesso; e  	
-IV - Expulsão do GTI.
+I - Advertência;  
+II - Suspensão dos privilégios de acesso;  
+III - Remoção dos privilégios de acesso; e  
+IV - Expulsão do GTI.  
