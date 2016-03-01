@@ -32,11 +32,15 @@ O GTI é composto por todas as pessoas que desempenham as seguintes funções:
 
 ##### I - articuladora:
 
-Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros colaboradores do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS;
+Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros efetivos do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS;
 
-##### II - colaboradora:
+##### II - efetiva:
 
-O colaborador é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais. O(a) articulador(a) é considerado um(a) colaborador(a).
+O membro efetivo é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais. O(a) articulador(a) é considerado um(a) membro efetivo. Os membros efetivos são responsáveis por identificar e facilitar a contribuição de colaboradores(as).
+
+##### III - colaboradora:
+
+A pessoa colaboradora é aquela que contribui ocasionalmente com o GTI, não possuindo os mesmos deveres dos membros efetivos e da pessoa responsável pela articulação, nem direito a voto em reuniões oficiais, ou outros meios de deliberação, como os membros efetivos. A contribuição efetiva de um(a) colaboradora está subordinada à intermediação de um membro efetivo.
 
 ### Artigo 5º:
 
@@ -48,8 +52,11 @@ As deliberações internas do GTI dar-se-ão em reuniões ordinárias.
 
 #### §1º:
 
-Terão direito a voto nas deliberações do GTI os colaboradores e a pessoa ocupando cargo de articulação.
+Terão direito a voto nas deliberações do GTI os membros efetivos e a pessoa ocupando cargo de articulação.
 
+#### §2º:
+
+Estabelece-se cinquenta por cento mais um como quórum mínimo para reuniões deliberatvas.
 
 Capítulo IV - Dos critérios de admissão de novos colaboradores
 --
@@ -60,7 +67,7 @@ Interesse em git, linux e administração de sistemas computacionais são requis
 
 #### §1º:
 
-A admissão de um(a) colaborador(a) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
+A admissão de um membro efetivo dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
 
 I - Deliberação em reunião ordinária;
 II - Demonstração de competência técnica para desempenhar as funções necessárias;
@@ -71,8 +78,8 @@ A admissão de um(a) articulador(a) dar-se-á em conformidade com os seguintes c
 
 I - Definição de método de votação e um prazo para contestação em reunião ordinária;
 II - Demonstração de competência técnica para desempenhar as funções necessárias;
-III - Votação entre os colaboradores do GTI com quorum mínimo de 66% dos colaboradores(as) votantes;
-IV - Publicidade do resultado em meio oficial do PIRATAS e abertura para contestação do nome indicado por todos(as) associados(as) do PIRATAS pelo prazo definido através método descrito no item I deste parágrafo;
+III - Votação pelo método definido no item I entre os membros efetivos do GTI com quorum mínimo de cinquenta por cento do total de membros efetivos, sendo a quantidade mínima de três membros efetivos;
+IV - Publicidade do resultado em meio oficial do PIRATAS e abertura para contestação do nome indicado por todos(as) associados(as) do PIRATAS pelo prazo definido através método descrito no item I;
 
 Capítulo V - Das Sanções Disciplinares
 --
@@ -81,18 +88,23 @@ Capítulo V - Das Sanções Disciplinares
 
 A não participação em reuniões e em canais de comunicações estabelecidos pelo grupo serão considerados afastamento espontâneo do GTI.
 
+
 ### Artigo 9º:
 
-No caso de um membro colaborador efetuar ação contrária às cláusulas pétreas ou documentos oficiais do partido, indicados no Art. 5º do estatuto, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
+No caso de um membro efetivo efetuar ação contrária às cláusulas pétreas ou documentos oficiais do partido, indicados no Art. 5º do estatuto, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
 
 I - Articulador(a) eleito(a) do GTI; e
-II - Todos os outros membros colaborares.
+II - Todos os outros membros efetivos.
 
 #### §1º:
 
-Caso o membro em julgamento seja o(a) Articulador(a), ele deverá ser julgado por todos os outros membros colaboradores.
+Caso o membro em julgamento seja o(a) Articulador(a), ele deverá ser julgado por todos os outros membros efetivos.
 
 #### §2º:
+
+Casos omissos serão encaminhados para a Gestão de Crises do PIRATAS ou órgão substituto do mesmo.
+
+#### §3º:
 
 Se cabível, a punição poderá variar entre:
 
