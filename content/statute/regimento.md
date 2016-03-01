@@ -19,9 +19,9 @@ I - Regimento Interno;
 O GTI tem como atribuições:
 
 I. Desenvolver novas soluções em TI (Tecnologia da informação) que sejam condizentes aos objetivos do partido;
-II. Administração e manutenção dos sistemas computacionais do partido;
-III. Orientação do partido no que tange assuntos relacionados a tecnologia;
-IX. 
+II. Administração e manutenção dos sistemas computacionais do PIRATAS, assim como os recursos necessários para sua divulgação e presença na rede mundial de computadores - a internet;
+III. Orientação do partido no que tange assuntos relacionados à tecnologia da informação;
+IX. Fornecer suporte, apoio e auxílio aos demais Grupos de Trabalho, Tesourarias, Secretarias, Coordenações e demais grupos que venham a ser criados pelo PIRATAS;
 
 Capítulo II - Da constituição do GTI
 --
@@ -32,12 +32,11 @@ O GTI é composto por todas as pessoas que desempenham as seguintes funções:
 
 ##### I - articuladora:
 
-Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros colaboradores do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração dos meios de comunicação oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS;
+Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros colaboradores do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS;
 
 ##### II - colaboradora:
 
-O colaborador é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais.
-
+O colaborador é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais. O(a) articulador(a) é considerado um(a) colaborador(a).
 
 ### Artigo 5º:
 
@@ -45,7 +44,7 @@ O GTI se reunirá preferencialmente a cada trinta dias de forma ordinária no ca
 
 ### Artigo 6º:
 
-As deliberações internas do GTI se darão em reuniões ordinárias.
+As deliberações internas do GTI dar-se-ão em reuniões ordinárias.
 
 #### §1º:
 
@@ -57,13 +56,23 @@ Capítulo IV - Dos critérios de admissão de novos colaboradores
 
 ### Artigo 7º:
 
-Interesse em git e linux são requisitos necessários para ingresso no GTI.
+Interesse em git, linux e administração de sistemas computacionais são requisitos necessários para ingresso no GTI como colaborador(a) e/ou articulador(a).
 
 #### §1º:
 
-A admissão de um colaborador se dará em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
+A admissão de um(a) colaborador(a) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
 
-I - deliberação em reunião ordinária;
+I - Deliberação em reunião ordinária;
+II - Demonstração de competência técnica para desempenhar as funções necessárias;
+
+#### §2º:
+
+A admissão de um(a) articulador(a) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
+
+I - Definição de método de votação e um prazo para contestação em reunião ordinária;
+II - Demonstração de competência técnica para desempenhar as funções necessárias;
+III - Votação entre os colaboradores do GTI com quorum mínimo de 66% dos colaboradores(as) votantes;
+IV - Publicidade do resultado em meio oficial do PIRATAS e abertura para contestação do nome indicado por todos(as) associados(as) do PIRATAS pelo prazo definido através método descrito no item I deste parágrafo;
 
 Capítulo V - Das Sanções Disciplinares
 --
@@ -74,7 +83,7 @@ A não participação em reuniões e em canais de comunicações estabelecidos p
 
 ### Artigo 9º:
 
-No caso de um membro colaborador efetuar ação contrária ao guia editorial, cláusulas pétreas ou documentos oficiais do partido, indicados no Art. 5º do estatuto, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
+No caso de um membro colaborador efetuar ação contrária às cláusulas pétreas ou documentos oficiais do partido, indicados no Art. 5º do estatuto, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
 
 I - Articulador(a) eleito(a) do GTI; e
 II - Todos os outros membros colaborares.
