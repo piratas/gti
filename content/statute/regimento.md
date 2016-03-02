@@ -48,15 +48,22 @@ O GTI se reunirá preferencialmente a cada trinta dias de forma ordinária no ca
 
 ### Artigo 6º:
 
-As deliberações internas do GTI dar-se-ão em reuniões ordinárias.
+As deliberações internas do GTI dar-se-ão em reuniões ordinárias, ou em sistema de deliberação assíncrono definido em reunião ordinária.
 
 #### §1º:
 
-Terão direito a voto nas deliberações do GTI os membros efetivos e a pessoa ocupando cargo de articulação.
+Terão direito a voto nas deliberações do GTI todos os membros efetivos.
 
 #### §2º:
 
-Estabelece-se cinquenta por cento mais um como quórum mínimo para reuniões deliberatvas.
+Terão direito a voz e opinião, porém não direito a voto, todas(os) colaboradoras(es) do GTI, assim como todas(os) associadas(os) do PIRATAS.
+
+#### §3º:
+
+O quórum mínimo para reuniões e votações deliberativas deve atender todas as seguintes premissas:
+
+I - Ser no mínimo de cinquenta por centro dos membros efetivos;
+II - Ser no mínimo de três membros efetivos.
 
 Capítulo IV - Dos critérios de admissão de novos membros efetivos
 --
