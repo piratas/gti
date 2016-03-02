@@ -89,11 +89,15 @@ Capítulo V - Das Sanções Disciplinares
 
 ### Artigo 8º:
 
-A não participação em reuniões e em canais de comunicações estabelecidos pelo grupo serão considerados afastamento espontâneo do GTI.
+A não participação em reuniões e em canais de comunicações estabelecidos pelo grupo sem justificativa declarada serão considerados afastamento espontâneo do GTI.
 
-#### Parágrafo único:
+#### §1º:
 
 Nenhum membro efetivo do GTI deve ser obrigado a participar de canais de comunicação caso não aceite seus termos de uso, política de privacidade, ou conduta.
+
+#### §2º:
+
+Qualquer afastamento deve ser formalizado em reunião deliberativa, a pessoa afastada deve ser comunicada, sendo o seu retorno permitido de acordo com o artigo 7º.
 
 ### Artigo 9º:
 
