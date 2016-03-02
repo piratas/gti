@@ -32,11 +32,12 @@ O GTI é composto por todas as pessoas que desempenham as seguintes funções:
 
 ##### I - articuladora:
 
-Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros efetivos do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS;
+Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros efetivos do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS. A articuladora ou articulador tem a prerrogativa de delegar suas funções para membros efetivos, desde que assuma a responsabilidade pelas consequências do resultado das ações delegadas;
+
 
 ##### II - efetiva:
 
-O membro efetivo é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais. O(a) articulador(a) é considerado um(a) membro efetivo. Os membros efetivos são responsáveis por identificar e facilitar a contribuição de colaboradores(as).
+O membro efetivo é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais. O(a) articulador(a) é considerado um(a) membro efetivo. Os membros efetivos são responsáveis por identificar e facilitar a contribuição de colaboradores(as). Um membro efetivo pode aceitar a delegação de funções da articuladora ou articulador, sendo que caso aceite desempenhar alguma função, tem o dever de cumpri-la ou informar os demais membros efetivos que não pode fazê-lo;
 
 ##### III - colaboradora:
 
