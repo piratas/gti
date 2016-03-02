@@ -32,12 +32,12 @@ O GTI é composto por todas as pessoas que desempenham as seguintes funções:
 
 ##### I - articuladora:
 
-Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros efetivos do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS. A articuladora ou articulador tem a prerrogativa de delegar suas funções para membros efetivos, desde que assuma a responsabilidade pelas consequências do resultado das ações delegadas;
+Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros efetivos do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS.;
 
 
 ##### II - efetiva:
 
-O membro efetivo é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais. O(a) articulador(a) é considerado um(a) membro efetivo. Os membros efetivos são responsáveis por identificar e facilitar a contribuição de colaboradores(as). Um membro efetivo pode aceitar a delegação de funções da articuladora ou articulador, sendo que caso aceite desempenhar alguma função, tem o dever de cumpri-la ou informar os demais membros efetivos que não pode fazê-lo;
+O membro efetivo é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais. O(a) articulador(a) é considerado um(a) membro efetivo. Os membros efetivos são responsáveis por identificar e facilitar a contribuição de colaboradores(as).;
 
 ##### III - colaboradora:
 
@@ -45,9 +45,17 @@ A pessoa colaboradora é aquela que contribui ocasionalmente com o GTI, não pos
 
 ### Artigo 5º:
 
-O GTI se reunirá preferencialmente a cada trinta dias de forma ordinária no canal de comunicação escolhido pelo grupo, sendo as reuniões abertas à participação de todas as pessoas compondo o grupo de trabalho e interessados em ser um colaborador.
+A articuladora ou articulador tem a prerrogativa de delegar suas funções para membros efetivos, desde que assuma a responsabilidade pelas consequências disto.
+
+#### Parágrafo único:
+
+Um membro efetivo pode aceitar a delegação de funções da articuladora ou articulador, sendo que caso aceite desempenhar alguma função, assume o dever de cumpri-la ou informar os demais membros efetivos que não pode fazê-lo.
 
 ### Artigo 6º:
+
+O GTI se reunirá preferencialmente a cada trinta dias de forma ordinária no canal de comunicação escolhido pelo grupo, sendo as reuniões abertas à participação de todas as pessoas compondo o grupo de trabalho e interessados em ser um colaborador.
+
+### Artigo 7º:
 
 As deliberações internas do GTI dar-se-ão em reuniões ordinárias, ou em sistema de deliberação assíncrono definido em reunião ordinária.
 
@@ -69,7 +77,7 @@ II - Ser no mínimo de três membros efetivos.
 Capítulo IV - Dos critérios de admissão de novos membros efetivos
 --
 
-### Artigo 7º:
+### Artigo 8º:
 
 Os seguintes requisitos são condições necessárias para ingresso no GTI como membro efetivo:
 
@@ -95,7 +103,7 @@ IV - Publicidade do resultado em meio oficial do PIRATAS e abertura para contest
 Capítulo V - Das Sanções Disciplinares
 --
 
-### Artigo 8º:
+### Artigo 9º:
 
 A não participação em reuniões e em canais de comunicações estabelecidos pelo grupo sem justificativa declarada serão considerados afastamento espontâneo do GTI.
 
@@ -107,7 +115,7 @@ Nenhum membro efetivo do GTI deve ser obrigado a participar de canais de comunic
 
 Qualquer afastamento deve ser formalizado em reunião deliberativa, a pessoa afastada deve ser comunicada, sendo o seu retorno permitido de acordo com o artigo 7º.
 
-### Artigo 9º:
+### Artigo 10º:
 
 No caso de um membro efetivo efetuar ação contrária às cláusulas pétreas ou documentos oficiais do partido, indicados no Art. 5º do estatuto, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
 
