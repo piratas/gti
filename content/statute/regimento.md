@@ -32,7 +32,7 @@ O GTI é composto por todas as pessoas que desempenham as seguintes funções:
 
 ##### I - articuladora:
 
-Cargo definido pelo Estatuto Pirata (Art. 52, §4º) e ocupado por uma única pessoa escolhida a cada seis meses pelos membros efetivos do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS.;
+Cargo exigido pelo Estatuto Pirata através do Artigo 54, §5º para a constituição de um GTI e ocupado por uma única pessoa escolhida a cada seis meses pelos membros efetivos do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pelo cumprimento do Regimento Interno, pela administração e delegação da administração dos recursos de TI oficiais do Partido (quando houver essa função) e pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS.;
 
 
 ##### II - efetiva:
