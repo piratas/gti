@@ -1,6 +1,13 @@
-**não** altere este arquivo diretamente.
+Meu nome é Iuri Guilherme dos Santos Martins
 
-Este arquivo deve seguir a instrução contida no [_README.md_](../master/README.md):
+Sou associado pleno ao Partido Pirata Brasileiro pela resolução 001/2014 conforme consta em https://tree.taiga.io/project/desci-piratas/us/256
 
-> O articulador deve ser eleito através de um _PULL REQUEST_ modificando o arquivo [_ARTICULADOR.md_](../master/articulador.md). Use sua criatividade com ASCII ARTS e aproveita para escrever o que pretende realizar como coordenador e como pretende nos representar no partido.
+Meu usuário no Loomio é [Desobediente Civil](https://loomio.org/u/desci)
 
+Eu não quero ser articulador do GTI, a não ser que defina-se que "querer" é condição necessária para tanto. Neste caso eu mentirei que quero.
+
+Estou desde 2013 fazendo o máximo possível na intenção de reorganizar o GTI do PIRATAS porque penso que tenho as condições para colaborar e penso que é uma área de suma importância para esta instituição. Colaboro como posso e às vezes como não poderia ou não deveria mesmo sem ser reconhecido como membro do GTI. Se é que tem um GTI em primeiro lugar.
+
+Eu sou hacker. E escrevo muito.
+
+O que é que era pra escrever aqui, afinal?
