@@ -58,7 +58,7 @@ Terão direito a voto nas deliberações do GTI os membros efetivos e a pessoa o
 
 Estabelece-se cinquenta por cento mais um como quórum mínimo para reuniões deliberatvas.
 
-Capítulo IV - Dos critérios de admissão de novos colaboradores
+Capítulo IV - Dos critérios de admissão de novos membros efetivos
 --
 
 ### Artigo 7º:
