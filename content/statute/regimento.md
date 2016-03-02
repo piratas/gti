@@ -71,8 +71,8 @@ Terão direito a voz e opinião, porém não direito a voto, todas(os) colaborad
 
 O quórum mínimo para reuniões e votações deliberativas deve atender todas as seguintes premissas:
 
-I - Ser no mínimo de cinquenta por centro dos membros efetivos;
-II - Ser no mínimo de três membros efetivos.
+I - Ser no mínimo de cinquenta por centro dos membros efetivos;  
+II - Ser no mínimo de três membros efetivos.  
 
 Capítulo IV - Dos critérios de admissão de novos membros efetivos
 --
