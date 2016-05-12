@@ -35,13 +35,13 @@ O GTI é composto por todas as pessoas que desempenham as seguintes funções:
 
 Cargo exigido e regido pelo Artigo 54, §5º do Estatuto do Partido para a constituição de um GTI, e ocupado por uma única pessoa escolhida a cada seis meses pelos membros efetivos do GTI. A pessoa que ocupar esse cargo será responsável pela articulação perante a Secretaria Geral e a Coordenação Nacional, pela boa condução dos trabalhos, pelo cumprimento do Regimento Interno, pelo diálogo com os demais órgãos e Grupos de Trabalho do PIRATAS, e pela administração e atribuição da administração dos recursos de Tecnologia da Informação oficiais do Partido, quando houver essa função;
 
-#### II - efetiva:
+#### II - membra(o) efetiva(o):
 
-O membro efetivo é aquele que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no artigo 3º, respeitando sempre as cláusulas pétreas do partido e agindo de acordo com os documentos oficiais. O(a) articulador(a) é considerado um(a) membro efetivo. Os membros efetivos são responsáveis por identificar e facilitar a contribuição de colaboradores(as).;
+A(o) membra(o) efetiva(o) é aquela(e) que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no Artigo 3º deste Regimento Interno, respeitando sempre as Cláusulas Pétreas do Partido e agindo de acordo com os documentos oficiais. A(o) articulador(a) é considerado um(a) membra(o) efetiv(o). As(os) membras(os) efetivas(os) são responsáveis por identificar e facilitar a contribuição de colaboradoras(es).;
 
-#### III - colaboradora:
+#### III - colaborador(a):
 
-A pessoa colaboradora é aquela que contribui ocasionalmente com o GTI, não possuindo os mesmos deveres dos membros efetivos e da pessoa responsável pela articulação, nem direito a voto em reuniões oficiais, ou outros meios de deliberação, como os membros efetivos. A contribuição efetiva de um(a) colaboradora está subordinada à intermediação de um membro efetivo.
+A pessoa colaboradora é aquela que contribui ocasionalmente com o GTI, não possuindo os mesmos deveres dos membros efetivos e da pessoa responsável pela articulação, nem direito a voto em reuniões oficiais, ou outros meios de deliberação, como os membros efetivos. A contribuição efetiva de um(a) colaboradora está subordinada à intermediação de um(a) membra(o) efetiva(o), que assume a responsabilidade de garantir o respeito a este Regimento Interno.
 
 ### Artigo 5º:
 
