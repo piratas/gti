@@ -1,4 +1,7 @@
+.*
+!.gitignore
 *.swp
+*~
 .publish
 /nbproject/private/
 bower_components/
