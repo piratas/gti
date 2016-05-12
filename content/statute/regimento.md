@@ -6,7 +6,7 @@ Capítulo I - Do Grupo de Trabalho e suas atribuições
 
 ### Artigo 1º:
 
-O Grupo Nacional de Tecnologia da Informação do Partido Pirata (doravante chamado "GTI"), o órgão oficial de tecnologia da informação do partido, reger-se-á por este Regimento Interno, que define sua estrutura e funcionamento, sendo este um documento oficial do Partido de acordo com o disposto no art. 5º do Estatuto Pirata.
+O Grupo de Trabalho de Tecnologia da Informação - doravante referenciado por **GTI** - do Partido Pirata - doravante chamado **PIRATAS** ou **Partido**, o órgão oficial de tecnologia da informação do PIRATAS, reger-se-á por este Regimento Interno, que define sua estrutura e funcionamento, sendo este um documento oficial do PIRATAS de acordo com o disposto no art. 5º do Estatuto do Partido.
 
 ### Artigo 2º:
 
