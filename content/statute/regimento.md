@@ -57,18 +57,18 @@ As deliberações internas do GTI dar-se-ão em reuniões ordinárias, ou em sis
 
 #### §1º:
 
-Terão direito a voto nas deliberações do GTI todos os membros efetivos.
+Terão direito a voto nas deliberações do GTI todas(os) membras(os) efetivas(os).
 
 #### §2º:
 
-Terão direito a voz e opinião, porém não direito a voto, todas(os) colaboradoras(es) do GTI, assim como todas(os) associadas(os) do PIRATAS.
+Terão direito a voz e opinião, porém não direito a voto, todas(os) colaboradoras(es) do GTI, assim como todas(os) associadas(os) do PIRATAS, sendo que qualquer pessoa que participar de uma reunião do GTI é considerada colaboradora conforme descrito no inciso III do Artigo 4º deste Regimento Interno.
 
 #### §3º:
 
 O quórum mínimo para reuniões e votações deliberativas deve atender todas as seguintes premissas:
 
-I. Ser no mínimo de cinquenta por centro dos membros efetivos;  
-II. Ser no mínimo de três membros efetivos.  
+I. Ser de no mínimo cinquenta por centro dos membros efetivos;  
+II. Ser de no mínimo três membros efetivos, conforme o Parágrafo 3 do Artigo 54 do Estatuto do Partido.  
 
 Capítulo IV - Dos critérios de admissão de novos membros efetivos
 --
