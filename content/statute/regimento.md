@@ -18,10 +18,11 @@ I. Regimento Interno;
 
 O GTI tem como atribuições:
 
-I. Desenvolver novas soluções em TI (Tecnologia da informação) que sejam condizentes aos objetivos do partido;  
+I. Desenvolver novas soluções em Tecnologia da Informação que sejam condizentes aos objetivos do partido;  
 II. Administração e manutenção dos sistemas computacionais do PIRATAS, assim como os recursos necessários para sua divulgação e presença na rede mundial de computadores - a internet;  
-III. Orientação do partido no que tange assuntos relacionados à tecnologia da informação;  
-IV. Fornecer suporte, apoio e auxílio aos demais Grupos de Trabalho, Tesourarias, Secretarias, Coordenações e demais grupos que venham a ser criados pelo PIRATAS;  
+III. Orientação ao Partido no que tange assuntos relacionados à tecnologia da informação;  
+IV. Fornecer suporte, apoio e auxílio na área da Tecnologia da Informação aos demais Grupos de Trabalho, Tesourarias, Secretarias, Coordenações e demais grupos que venham a ser criados pelo PIRATAS;  
+V. Reconhecer, facilitar, organizar, sistematizar e dar suporte para iniciativas em apoio ao Partido na área da Tecnologia da Informação que respeitem suas Diretrizes e Cláusulas Pétreas.  
 
 Capítulo II - Da constituição do GTI
 --
