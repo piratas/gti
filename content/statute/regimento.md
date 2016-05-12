@@ -45,7 +45,7 @@ A pessoa colaboradora é aquela que contribui ocasionalmente com o GTI, não pos
 
 ### Artigo 5º:
 
-O GTI reunir-se-á preferencialmente a cada trinta dias de forma ordinária no canal de comunicação escolhido pelo grupo, sendo as reuniões abertas à participação de todas as pessoas compondo o grupo de trabalho e interessados em ser um colaborador.
+O GTI reunir-se-á preferencialmente em prazo menor do que trinta dias de forma ordinária no canal de comunicação escolhido pelo grupo, sendo as reuniões abertas à participação de todas as pessoas compondo o GTI e interessadas(os) em atuarem como colaboradoras(es).
 
 ### Artigo 6º:
 
