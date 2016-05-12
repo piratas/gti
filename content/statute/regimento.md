@@ -47,6 +47,10 @@ A pessoa colaboradora é aquela que contribui ocasionalmente com o GTI, não pos
 
 O GTI reunir-se-á preferencialmente em prazo menor do que trinta dias de forma ordinária no canal de comunicação escolhido pelo grupo, sendo as reuniões abertas à participação de todas as pessoas compondo o GTI e interessadas(os) em atuarem como colaboradoras(es).
 
+#### Parágrafo único:
+
+A pessoa ou pessoas que, segundo o entendimento da coordenação da reunião estiver(em) turbando a reunião, perderá(ão) o direito de voz e/ou participação ativa, conforme Artigo 43 do Estatuto do Partido, sendo garantida a possibilidade de questionar a relatoria da reunião com amplo contraditório posteriormente.
+
 ### Artigo 6º:
 
 As deliberações internas do GTI dar-se-ão em reuniões ordinárias, ou em sistema de deliberação assíncrono definido em reunião ordinária.
