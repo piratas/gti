@@ -68,33 +68,35 @@ Terão direito a voz e opinião, porém não direito a voto, todas(os) colaborad
 O quórum mínimo para reuniões e votações deliberativas deve atender todas as seguintes premissas:
 
 I. Ser de no mínimo cinquenta por centro dos membros efetivos;  
-II. Ser de no mínimo três membros efetivos, conforme o Parágrafo 3 do Artigo 54 do Estatuto do Partido.  
+II. Ser de no mínimo três membros efetivos, conforme o §3º do Artigo 54 do Estatuto do Partido.  
 
 Capítulo IV - Dos critérios de admissão de novos membros efetivos
 --
 
 ### Artigo 7º:
 
-Os seguintes requisitos são condições necessárias para ingresso no GTI como membro efetivo:
+Os seguintes requisitos são condições necessárias para ingresso no GTI como membra(o) efetiva(o):
 
 I. Associação ou filiação ao Partido Pirata (PIRATAS);  
-II. Interesse em git, linux e administração de sistemas computacionais.  
+II. Interesse ou familiaridade com administração de sistemas computacionais, desenvolvimento, ferramentas de trabalho de Tecnologia da Informação;  
+III. Disposição para aprendizado ou conhecimento de uso de sistemas para a internet para organização interna;  
+IV. Leitura e aceitação deste Regimento Interno.  
 
 #### §1º:
 
-A admissão de um membro efetivo dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
+A admissão de um(a) membra(o) efetiva(o) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
 
 I. Deliberação em reunião ordinária;  
-II. Demonstração de competência técnica para desempenhar as funções necessárias.  
+II. Demonstração de competência técnica para desempenhar as funções necessárias;  
+III. Não ter ligação com grupos de hacktivismo ou similares que sejam contrários às Cláusulas Pétreas do Partido.  
 
 #### §2º:
 
 A admissão de um(a) articulador(a) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
 
-I. Definição de método de votação e um prazo para contestação em reunião ordinária;  
-II. Demonstração de competência técnica para desempenhar as funções necessárias;  
-III. Votação pelo método definido no item I entre os membros efetivos do GTI com quorum mínimo de cinquenta por cento do total de membros efetivos, sendo a quantidade mínima de três membros efetivos;  
-IV. Publicidade do resultado em meio oficial do PIRATAS e abertura para contestação do nome indicado por todos(as) associados(as) do PIRATAS pelo prazo definido através método descrito no item I.  
+I. Definição de método de votação em reunião ordinária, com quorum mínimo de cinquenta por cento do total de membros efetivos, sendo a quantidade mínima de três membras(os) efetivas(os);  
+II. Cumprir com os mesmos critérios e requisitos para um(a) membra(o) efetiva(o);  
+III. Publicidade do resultado em meio oficial do PIRATAS e abertura para contestação do nome indicado por todas(os) associadas(os) do PIRATAS por prazo indefinido.  
 
 Capítulo V - Das Sanções Disciplinares
 --
