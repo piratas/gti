@@ -139,3 +139,6 @@ III. Suspensão dos privilégios de acesso;
 IV. Remoção dos privilégios de acesso;  
 IV. Expulsão do GTI.  
 
+#### §4º:
+
+Qualquer pessoa envolvida com o GTI que for comprovadamente envolvida com o fascismo e/ou o nazismo será sumariamente expulsa sem julgamento e sem direito a defesa.
