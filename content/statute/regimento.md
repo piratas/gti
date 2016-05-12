@@ -115,24 +115,27 @@ Qualquer afastamento deve ser formalizado em reunião deliberativa, a pessoa afa
 
 ### Artigo 9º:
 
-No caso de um membro efetivo efetuar ação contrária às cláusulas pétreas ou documentos oficiais do partido, indicados no Art. 5º do estatuto, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
+No caso de um(a) membra(o) efetiva(o) efetuar ação contrária às Cláusulas Pétreas indicadas no Art. 5º do Estatuto do Partido, ou documentos oficiais do Partido, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
 
-I. Articulador(a) eleito(a) do GTI; e  
-II. Todos os outros membros efetivos.  
+I. Articulador(a) eleita(o) do GTI;  
+II. Todas(os) as(os) outras(os) membras(os) efetivas(os);  
+III. A Gestão de Crises do PIRATAS, se houver.  
 
 #### §1º:
 
-Caso o membro em julgamento seja o(a) Articulador(a), ele deverá ser julgado por todos os outros membros efetivos.
+Caso o membro em julgamento seja a(o) Articulador(a), ela(e) deverá ser julgada(o) por todas(os) as(os) outras(os) membras(os) efetivas(os).
 
 #### §2º:
 
-Casos omissos serão encaminhados para a Gestão de Crises do PIRATAS ou órgão substituto do mesmo.
+Casos omissos serão encaminhados para a Gestão de Crises do PIRATAS, se houver, e para a Secretaria Geral do PIRATAS.
 
 #### §3º:
 
 Se cabível, a punição poderá variar entre:
 
-I. Advertência;  
-II. Suspensão dos privilégios de acesso;  
-III. Remoção dos privilégios de acesso; e  
+I. Admoestação;  
+II. Advertência;  
+III. Suspensão dos privilégios de acesso;  
+IV. Remoção dos privilégios de acesso;  
 IV. Expulsão do GTI.  
+
