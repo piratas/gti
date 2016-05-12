@@ -45,17 +45,9 @@ A pessoa colaboradora é aquela que contribui ocasionalmente com o GTI, não pos
 
 ### Artigo 5º:
 
-A articuladora ou articulador tem a prerrogativa de delegar suas funções para membros efetivos, desde que assuma a responsabilidade pelas consequências disto.
-
-#### Parágrafo único:
-
-Um membro efetivo pode aceitar a delegação de funções da articuladora ou articulador, sendo que caso aceite desempenhar alguma função, assume o dever de cumpri-la ou informar os demais membros efetivos que não pode fazê-lo.
-
-### Artigo 6º:
-
 O GTI se reunirá preferencialmente a cada trinta dias de forma ordinária no canal de comunicação escolhido pelo grupo, sendo as reuniões abertas à participação de todas as pessoas compondo o grupo de trabalho e interessados em ser um colaborador.
 
-### Artigo 7º:
+### Artigo 6º:
 
 As deliberações internas do GTI dar-se-ão em reuniões ordinárias, ou em sistema de deliberação assíncrono definido em reunião ordinária.
 
@@ -77,7 +69,7 @@ II. Ser no mínimo de três membros efetivos.
 Capítulo IV - Dos critérios de admissão de novos membros efetivos
 --
 
-### Artigo 8º:
+### Artigo 7º:
 
 Os seguintes requisitos são condições necessárias para ingresso no GTI como membro efetivo:
 
@@ -103,7 +95,7 @@ IV. Publicidade do resultado em meio oficial do PIRATAS e abertura para contesta
 Capítulo V - Das Sanções Disciplinares
 --
 
-### Artigo 9º:
+### Artigo 8º:
 
 A não participação em reuniões e em canais de comunicações estabelecidos pelo grupo sem justificativa declarada serão considerados afastamento espontâneo do GTI.
 
@@ -115,7 +107,7 @@ Nenhum membro efetivo do GTI deve ser obrigado a participar de canais de comunic
 
 Qualquer afastamento deve ser formalizado em reunião deliberativa, a pessoa afastada deve ser comunicada, sendo o seu retorno permitido de acordo com o artigo 7º.
 
-### Artigo 10º:
+### Artigo 9º:
 
 No caso de um membro efetivo efetuar ação contrária às cláusulas pétreas ou documentos oficiais do partido, indicados no Art. 5º do estatuto, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
 
