@@ -13,6 +13,9 @@ O Grupo de Trabalho de Tecnologia da Informação - doravante referenciado por *
 São documentos oficiais do GTI e deverão ser fixados em seção específica no site oficial do PIRATAS:
 
 I. Regimento Interno;  
+II. Planejamento Estratégico de TI;  
+III. Política de acesso e manutenção de sistemas computacionais;  
+IV. Política de acesso e manutenção de recursos de TI;  
 
 ### Artigo 3º:
 
@@ -37,7 +40,7 @@ Cargo exigido e regido pelo Artigo 54, §5º do Estatuto do Partido para a const
 
 #### II - membra(o) efetiva(o):
 
-A(o) membra(o) efetiva(o) é aquela(e) que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no Artigo 3º deste Regimento Interno, respeitando sempre as Cláusulas Pétreas do Partido e agindo de acordo com os documentos oficiais. A(o) articulador(a) é considerado um(a) membra(o) efetiv(o). As(os) membras(os) efetivas(os) são responsáveis por identificar e facilitar a contribuição de colaboradoras(es).;
+A(o) membra(o) efetiva(o) é aquela(e) que se dedica de forma integral ao GTI, tendo direito a voz e voto dentro de tal órgão, assim como o dever de cumprir uma ou mais das atribuições definidas no Artigo 3º deste Regimento Interno, respeitando sempre as Cláusulas Pétreas do Partido e agindo de acordo com os documentos oficiais. A(o) articulador(a) é considerado um(a) membra(o) efetiv(o). As(os) membras(os) efetivas(os) são responsáveis por identificar e facilitar a contribuição de colaboradoras(es), assim como organizar e sistematizar estas contribuições;
 
 #### III - colaborador(a):
 
@@ -78,8 +81,8 @@ Capítulo IV - Dos critérios de admissão de novos membros efetivos
 Os seguintes requisitos são condições necessárias para ingresso no GTI como membra(o) efetiva(o):
 
 I. Associação ou filiação ao Partido Pirata (PIRATAS);  
-II. Interesse ou familiaridade com administração de sistemas computacionais, desenvolvimento, ferramentas de trabalho de Tecnologia da Informação;  
-III. Disposição para aprendizado ou conhecimento de uso de sistemas para a internet para organização interna;  
+II. Interesse ou familiaridade com administração de sistemas computacionais, desenvolvimento, e/ou ferramentas de trabalho de Tecnologia da Informação;  
+III. Conhecimento ou disposição para aprendizado de uso de sistemas para a internet para organização interna;  
 IV. Leitura e aceitação deste Regimento Interno.  
 
 #### §1º:
@@ -87,10 +90,13 @@ IV. Leitura e aceitação deste Regimento Interno.
 A admissão de um(a) membra(o) efetiva(o) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
 
 I. Deliberação em reunião ordinária;  
-II. Demonstração de competência técnica para desempenhar as funções necessárias;  
-III. Não ter ligação com grupos de hacktivismo ou similares que sejam contrários às Cláusulas Pétreas do Partido.  
+II. Não ter ligação com grupos de hacktivismo ou similares que sejam contrários às Cláusulas Pétreas do Partido.  
 
 #### §2º:
+
+As(os) membras(os) efetivas(os) que eventualmente assumirem funções de manutenção e/ou administração de recursos computacionais, deverá comprovar competência técnica para desempenho destas.
+
+#### §3º:
 
 A admissão de um(a) articulador(a) dar-se-á em conformidade com os seguintes critérios e obedecendo as seguintes etapas:
 
@@ -115,7 +121,7 @@ Qualquer afastamento deve ser formalizado em reunião deliberativa, a pessoa afa
 
 ### Artigo 9º:
 
-No caso de um(a) membra(o) efetiva(o) efetuar ação contrária às Cláusulas Pétreas indicadas no Art. 5º do Estatuto do Partido, ou documentos oficiais do Partido, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
+No caso de um(a) membra(o) efetiva(o) efetuar ação contrária às Cláusulas Pétreas indicadas no Art. 5º do Estatuto do Partido, ou documentos oficiais do GTI e do Partido, uma comissão disciplinar será constituída para analisar o caso e julgar. A comissão será composta por:
 
 I. Articulador(a) eleita(o) do GTI;  
 II. Todas(os) as(os) outras(os) membras(os) efetivas(os);  
@@ -137,7 +143,7 @@ I. Admoestação;
 II. Advertência;  
 III. Suspensão dos privilégios de acesso;  
 IV. Remoção dos privilégios de acesso;  
-IV. Expulsão do GTI.  
+V. Expulsão do GTI.  
 
 #### §4º:
 
