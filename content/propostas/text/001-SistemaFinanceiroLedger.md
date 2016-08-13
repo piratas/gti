@@ -117,3 +117,6 @@ Há diversas variantes do Ledger e a proposta é usar o Hledger, feito em Haskel
 4. Desenvolvedor? Capaz de fazer um sistema web ou mobile que gere arquivos txt no padrão Ledger e dê pull request no github?
 5. Designer?  Nos ajude a pensar em uma UI intuitiva para sistemas mobile/web.
 6. Outra ideia de como pode ajudar? Insira mais um tópico nesta lista.
+
+# Status
+O projeto está em desenvolvimento.  Mais informações em https://github.com/piratas/tesouro-pirata
