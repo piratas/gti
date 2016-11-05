@@ -69,15 +69,20 @@ SITES_CAMINHOS=( \
 ##
 if [ ${#SITES_NOMES[@]} -eq ${#SITES_CAMINHOS[@]} ]
 then
-        pushd "${BACKUP_BASE_DIR}"
-        for SITE in $(seq 0 1 $(expr ${#SITES_NOMES[@]} - 1))
-        do
-                mkdir "${BACKUP_BASE_DIR}/${SITES_NOMES[SITE]}"
-                rsync -avhP "${SITES_CAMINHOS[SITE]}/" "${BACKUP_BASE_DIR}/${SITES_NOMES[SITE]}/"
-                tar -cSpzf "${BACKUP_BASE_DIR}/backup_${SITES_NOMES[SITE]}_$(date +%s).tar.gz" "${BACKUP_BASE_DIR}/${SITES_NOMES[SITE]}"
-                rm -r "${BACKUP_BASE_DIR}/${SITES_NOMES[SITE]}"
-        done
-        popd
+	if [ -d "${BACKUP_BASE_DIR}" ]
+	then
+	        pushd "${BACKUP_BASE_DIR}"
+	        for SITE in $(seq 0 1 $(expr ${#SITES_NOMES[@]} - 1))
+	        do
+	                mkdir "${BACKUP_BASE_DIR}/${SITES_NOMES[SITE]}"
+	                rsync -avhP "${SITES_CAMINHOS[SITE]}/" "${BACKUP_BASE_DIR}/${SITES_NOMES[SITE]}/"
+	                tar -cSpzf "${BACKUP_BASE_DIR}/backup_${SITES_NOMES[SITE]}_$(date +%s).tar.gz" "${SITES_NOMES[SITE]}"
+	                rm -r "${BACKUP_BASE_DIR}/${SITES_NOMES[SITE]}"
+	        done
+	        popd
+	else
+		echo "O diretório ${BACKUP_BASE_DIR} não existe."
+	fi
 else
         echo "Leia a documentação do script antes de editá-lo."
 fi
