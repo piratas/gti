@@ -1,10 +1,14 @@
 #!/bin/bash
 ##
 ## Rotina de backup não eficiente de sites do partidopirata.org
-## Rodar somente como root
+## Rodar somente como root, afim de preservar as permissões e dono/grupo dos arquivos
+##
 ## Para sincronizar localmente os backups no servidor, é necessário ter um usuário incluído no grupo `backup-local`. A partir daí é possível usar o rsync desta forma:
 ## rsync -avhzPe 'ssh -p 4242' usuario@enwtickler.partidopirata.org:/home/backups/tars/*.gz .
 ## Substitua o ponto '.' pelo diretório local alvo se necessário.
+##
+## Para extrair corretamente, é necessário ser root, por exemplo:
+## sudo tar -xf backup_partidopirata.org_1478368834.tar.gz
 ##
 
 ##
