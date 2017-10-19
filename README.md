@@ -27,7 +27,7 @@ A outra tag padronizada do GTI são as tags de prioridade: P-x, onde x vai de 1 
 
 ### Outras dicas para colaborar
 
-* Aprenda a usar o pull request do github se ainda não sabe o que é.
+* Aprenda a usar o [pull request](https://help.github.com/articles/about-pull-requests/) do github se ainda não sabe o que é.
 * É melhor pedir desculpa do que permissão.
 * Pegue issues `N-1` se nada ainda faz sentido ainda.
 * Se a issue não está clara, peça esclarecimentos do autor na própria issue.
@@ -43,9 +43,9 @@ Lembramos que esse é o regimento interno do Grupo de Trabalho de Tecnologia da 
 
 Para propor uma alteração do regimento deve ser encaminhado um PULL request com um arquivo MARKDOWN a ser inserido em:
 
-content/    
-├── news    
-└── **statute**     
+content/
+├── news
+└── **statute**
 
 ## Eleição do Articulador
 
