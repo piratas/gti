@@ -43,9 +43,9 @@ Lembramos que esse é o regimento interno do Grupo de Trabalho de Tecnologia da 
 
 Para propor uma alteração do regimento deve ser encaminhado um PULL request com um arquivo MARKDOWN a ser inserido em:
 
-content/
-├── news
-└── **statute**
+content/  
+├── news  
+└── **statute**  
 
 ## Eleição do Articulador
 
