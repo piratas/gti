@@ -21,9 +21,9 @@ O GTC busca muitas vezes pautas por aqui, se o assunto for técnico, deve começ
 
 Como o GTI tenta trabalhar de forma decentralizada, a melhor maneira de colaborar é procurar um issue no issue tracker de acordo com as sua experiencia e tempo disponível. Assim, o GTI está implementando um sistema de tags que te ajuda a escolher issues.
 
-Dentre as tags do GTI, temos as tags de niveis de dificulade do issue: N-x, onde x vai de 1 até 5. Cinco são tarefas dificeis que requerem muito tempo e conhecimento para serem atadacas. Tarefas marcadas com N-1 são fáceis e teoricamente qualquer pessoa pode fazer.
+Dentre as tags do GTI, temos as tags de niveis de dificuldade do issue: N-x, onde x vai de 1 até 5. Cinco são tarefas dificeis que requerem muito tempo e conhecimento para serem executadas. Tarefas marcadas com N-1 são fáceis e teoricamente qualquer pessoa pode fazer.
 
-A outra tag padronizada do GTI são as tags de prioridade: P-x, onde x vai de 1 até 5. Novamente, tarefas cinco devem ser atacadas o mais rápido possivel e tarefas 1 são menos importantes, mas se estão lá é porque alguém achou que deve ser feita.
+A outra tag padronizada do GTI são as tags de prioridade: P-x, onde x vai de 1 até 5. Novamente, tarefas cinco devem ser executadas o mais rápido possivel e tarefas 1 são menos importantes, mas se estão lá é porque alguém achou que deve ser feita.
 
 ### Outras dicas para colaborar
 
